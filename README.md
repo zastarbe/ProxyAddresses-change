@@ -3,7 +3,7 @@
 Powershell script to change Active Directory ProxyAddresses value from all users in a OU.
 
 
-##And the credits go to... 
+## And the credits go to... 
 
 Not all published, they're not in order, but got ideas from all
 
